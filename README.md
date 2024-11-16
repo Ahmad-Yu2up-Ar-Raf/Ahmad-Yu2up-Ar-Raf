@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-41A0D9?logo=letterboxd&logoColor=white)](https://letterboxd.com/yusufzolldcky/) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/YourSpotifyA.Y2up.A) 
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-41A0D9?logo=letterboxd&logoColor=white)](https://letterboxd.com/yusufzolldcky/) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/A.Y2up.A) 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ahmadyar-rafi) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmad.y.arrafi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.yu2up.a.r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-yusuf-ar-rafi-9b85b8323) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@a.yusuf.a.r) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MyNameIsThom) 
 
 # 💻 Tech Stack:

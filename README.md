@@ -1,7 +1,7 @@
 #  🤫🧏🏻‍♂️ About Me:
 
 
-👋 Hi, I’m @Ahmad-Yu2up-Ar-Raf<br>👀 I’m interested in MONEY<br>🌱 I’m currently learning  HTML,CSS,JS,REACT JS (I'm still watching tutorials)<br>💞️ I’m looking to collaborate on Whatver that make me interesting<br>📫 How to reach me... I'm active in instagramm,@a.y2up.a.r (just DM me)<br>🎸 I'm the target audience of RADIOHEAD<br>👀 I’m a movie lover and you can find me on Letterboxd   <br>😄 Pronouns: a/su<br>⚡ Fun fact: I experienced baldness at a young age (i'm not joking, I'm depressed now)
+👋 Hi, I’m @Ahmad-Yu2up-Ar-Raf<br>👀 I’m interested in MONEY<br>🌱 I learn HTML,CSS,JS,PHP<br>💞️ I’m looking to collaborate on Whatver that make me interesting<br>📫 How to reach me... I'm active in instagramm,@a.y2up.a.r (just DM me)<br>🎸 I'm the target audience of RADIOHEAD<br>👀 I’m a movie lover and you can find me on Letterboxd   <br>😄 Pronouns: a/su<br>⚡ Fun fact: I experienced baldness at a young age (i'm not joking, I'm depressed now)
 
 
 ## 🌐 Socials:

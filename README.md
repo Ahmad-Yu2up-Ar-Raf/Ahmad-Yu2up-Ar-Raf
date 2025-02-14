@@ -1,4 +1,11 @@
-#
+#  🤫🧏🏻‍♂️ About Me:
+
+
+
+
+👋 Hi, I’m @Ahmad-Yu2up-Ar-Raf<br>👀 I’m interested in MONEY<br>🌱 I learn HTML,CSS,JS,PHP<br>💞️ I’m looking to collaborate on Whatver that make me interesting<br>📫 How to reach me... I'm active in instagramm,@a.y2up.a.r (just DM me)<br>🎸 I'm the target audience of RADIOHEAD<br>👀 I’m a movie lover and you can find me on Letterboxd   <br>😄 Pronouns: a/su<br>⚡ Fun fact: I experienced baldness at a young age (i'm not joking, I'm depressed now)
+
+
 ## 🌐 Socials:
 
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-41A0D9?logo=letterboxd&logoColor=white)](https://letterboxd.com/yusufzolldcky/) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/31xm76mxumaqgs3ctblexnn4ecce) 
@@ -15,7 +22,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ahmad-Yu2up-Ar-Raf&icon=2&color=8)](https://visitcount.itsvg.in)
-
 
 
 

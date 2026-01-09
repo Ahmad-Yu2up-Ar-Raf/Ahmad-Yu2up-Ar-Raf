@@ -17,4 +17,4 @@ I have created a number of cool projects, including :
 
 ## Languages and Tools
 
-![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=javascript,php,typescript,html,laravel,nextjs,vite,reactjs,tailwindcss,alpinejs,reactquery,lucide,zustand,zod,drizzle,motion,inertiajs,docker,git,postman,gsap,shadcnui,supabase,github,visualstudiocode,postgresql,figma,vercel,claudeai,notion)
+![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=javascript,php,typescript,html,laravel,nextjs,vite,tanstack,reactjs,tailwindcss,alpinejs,lucide,zustand,zod,drizzle,motion,inertiajs,docker,git,postman,gsap,shadcnui,supabase,github,visualstudiocode,postgresql,figma,vercel,claudeai,notion)

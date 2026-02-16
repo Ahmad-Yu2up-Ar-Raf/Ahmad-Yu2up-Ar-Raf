@@ -12,8 +12,8 @@ I'm a Full Stack Developer.
 I am a student at [Pesat Vocational high school](https://smkpesat.sch.id/).
 
 I have created a number of cool projects, including :
-- **SatuSuara** - Collaborative platform that connects innovators to share creative ideas
-- **LiveUp** - A Jop Platform opputunities for a disabilty people
+- [**Suasana**](https://suasana.vercel.app/) - Collaborative platform that connect local destination to the word
+- [**LiveUp**](https://liveup-host.vercel.app/) - A Jop Platform opputunities for a disabilty people
 
 ## Languages and Tools
 

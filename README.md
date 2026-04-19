@@ -7,7 +7,7 @@
 
 Hi, I'm **Ahmad Yusuf Ar-Rafi**.
 
-I'm a Full Stack Developer.
+I'm a Full-Stack Developer.
 
 I am a student at [Pesat Vocational high school](https://smkpesat.sch.id/).
 

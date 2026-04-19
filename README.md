@@ -1,4 +1,4 @@
-# Ahmad Yusuf Ar-Rafi | [Y2up](https://yusuffff.my.id)
+# Ahmad Yusuf Ar-Rafi | [Y2up](https://beacons.ai/y2.dev)
 
 [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-Number-informational?style=flat&logo=whatsapp&logoColor=white&color=green)](https://api.whatsapp.com/send?phone=628999069933&text=Hi%20Yusuf,%20I%20want%20to%20discuss%20a%20project%20with%20you!&type=phone_number&app_absent=0)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/y2ups/)
